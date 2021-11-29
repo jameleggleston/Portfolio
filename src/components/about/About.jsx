@@ -20,6 +20,7 @@ const About = () => {
                     about it. i probably will use this sections for technologiesi use.
                 </p>
                 {/* <div className="a-tech">
+
                     <img src="" className="a-tech-img" />
                 </div> */}
             </div>
